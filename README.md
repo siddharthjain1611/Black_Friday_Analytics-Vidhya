@@ -9,4 +9,4 @@ https://datahack.analyticsvidhya.com/contest/black-friday/
 
 
 #### Contributions and Suggestions are always Welcomed
-#### Please Star if like my work
+#### Please Star if you like my work
